@@ -9396,7 +9396,6 @@ label {
   width: 47px;
   height: 47px;
   background-color: #fff;
-  border-radius: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -10435,7 +10434,6 @@ label {
 }
 .testmonials .owl-carousel .owl-item img {
   width: auto;
-  border-radius: 100px;
   display: inline-block;
 }
 .testmonials .test-block {
@@ -10443,7 +10441,6 @@ label {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 30px 40px;
-  border-radius: 5px;
 }
 .testmonials .test-block img {
   margin-bottom: 0.55em;
